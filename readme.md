@@ -1,7 +1,7 @@
 # Dev Chapter Portfolio
- - The real contact form connected to your Telegram
- - Dark and light theme
- - Load content while scrolling
+ - Real contact form connected to Telegram
+ - Dark and light version
+ - Load content on scroll,
  - Only with HTML CSS & JavaScript
  - Responsive design
 
@@ -29,6 +29,7 @@ https://unsplash.com
 
 #### Icons
 https://www.figma.com/community/file/942053544758339202
+https://www.figma.com/community/file/931906394678748246
 
 #### JS Libraries
 - https://michalsnik.github.io/aos/
