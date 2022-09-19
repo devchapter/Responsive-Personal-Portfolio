@@ -10,12 +10,12 @@
 
 
 ### 🚀 Youtube video
-https://www.youtube.com/
+https://youtu.be/diIbwA-BAgo
 
 ### 🔥 Demo
 https://portfolio-dev-chapter.vercel.app/
 
-### 📃 Resources
+### 📁 Assets
 <hr>
 
 #### Images
@@ -36,6 +36,9 @@ https://www.figma.com/community/file/942053544758339202
 - https://swiperjs.com/
 - https://github.com/jhildenbiddle/css-vars-ponyfill
 - https://github.com/jonathantneal/svg4everybody
+- https://github.com/developit/unfetch
 #### Fonts
 - https://fonts.google.com/specimen/Inter
 - https://fonts.google.com/specimen/Plus+Jakarta+Sans
+#### CSS
+- https://meyerweb.com/eric/tools/css/reset/
